@@ -129,7 +129,7 @@ async def amireallyalive(on):
                      f"Telethon ={version.__version__} \n"
                      f"Python   ={python_version()} \n\n`"
                      "============= \n"
-                     "Hello everyone its [ME](https://t.me/flashfw) \n"
+                     "Hello everyone its [ME](https://t.me/Tetuko) \n"
                      "============="
 
                                          "")
